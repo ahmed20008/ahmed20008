@@ -7,11 +7,9 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **React Framework.**
+- 🌱 I’m currently working on **React Framework.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/ahmed20008)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://muhammad-ahmed.netlify.app)**
 
 - 📫 How to reach me **sss.ahm7@gmail.com**
 
@@ -20,7 +18,6 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -46,8 +43,11 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ahmed20008/github-readme-stats"><img alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed20008&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ahmed20008/github-readme-stats"><img alt="Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed20008&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/ahmed20008/github-readme-stats">
+    <img alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed20008&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+  <a href="https://github.com/ahmed20008/github-readme-stats">
+    <img alt="Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed20008&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -55,7 +55,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ahmed20008/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmed20008&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ahmed20008/github-readme-activity-graph">
+    <img alt="Ahmed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmed20008&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -64,10 +65,20 @@
 <br>
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/muhammad-ahmed20008/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ahmedd20008"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sss.ahm7/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UChHutdJgVkr34CV1M813gFg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+    <a href = "https://www.linkedin.com/in/muhammad-ahmed20008/">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    </a>
+
+    <a href = "https://twitter.com/ahmedd20008">
+        <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+    </a>
+
+    <a href = "https://www.instagram.com/sss.ahm7/">
+        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+    </a>
+    <a href = "https://www.youtube.com/channel/UChHutdJgVkr34CV1M813gFg">
+        <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
+    </a>
 
 </p>
 <br>
